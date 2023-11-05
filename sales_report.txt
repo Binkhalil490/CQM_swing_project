@@ -1,0 +1,189 @@
+Serial Number: 1
+Name: Mahadi
+Description: keyboard
+Problem Type: Hardware
+Phone Number: 5461313131
+
+Date: 2023-07-04
+Serial Number: 1
+Name: hall edward
+Description: wifi
+Problem Type: Software
+Phone Number: 4616161616
+
+Date: 2023-06-28
+Serial Number: 1
+Name: Joey
+Description: Wifi
+Problem Type: Software
+Phone Number: 161616161
+
+Date: 2023-07-16
+Serial Number: 1
+Name: mahadiii
+Description: wifi
+Problem Type: Software
+Phone Number: 4644421341541
+
+Date: 2023-07-16
+Serial Number: 1
+Name: iqbal
+Description: wifi
+Problem Type: Software
+Phone Number: 5964646
+
+Date: 2023-07-16
+Serial Number: 1
+Name: Haque
+Description: Type
+Problem Type: Hardware
+Phone Number: 541614641
+
+Date: 2023-07-16
+Serial Number: 1
+Name: A
+Description: ds
+Problem Type: Software
+Phone Number: 2424242
+
+Date: 2023-07-16
+Serial Number: 2
+Name: B
+Description: fs
+Problem Type: Hardware
+Phone Number: 2442242422
+
+Date: 2023-07-16
+Serial Number: 1
+Name: Raisa
+Description: Dead
+Problem Type: Software
+Phone Number: 61666266
+
+Date: 2023-07-16
+Serial Number: 1
+Name: Mahaa
+Description: type
+Problem Type: Hardware
+Phone Number: 446451545
+
+Date: 2023-07-16
+Serial Number: 1
+Name: Sajjad
+Description: Virus
+Problem Type: Software
+Phone Number: 31611661165
+
+Date: 2023-06-26
+Serial Number: 2
+Name: Dave
+Description: Mouse
+Problem Type: Hardware
+Phone Number: 5461622266
+
+Date: 2023-06-26
+Serial Number: 3
+Name: MIna
+Description: Display
+Problem Type: Hardware
+Phone Number: 64611361316
+
+Date: 2023-06-26
+Serial Number: 1
+Name: don
+Description: jggj
+Problem Type: Hardware
+Phone Number: 55575
+
+Date: 2023-06-26
+Serial Number: 2
+Name: jgjfy
+Description: jugjf
+Problem Type: Hardware
+Phone Number: 8686868
+
+Date: 2023-06-26
+Serial Number: 1
+Name: milon
+Description: key 
+Problem Type: Hardware
+Phone Number: 12232323
+
+Date: 2023-06-26
+Serial Number: 2
+Name: jubayer
+Description: jvdljv
+Problem Type: Hardware
+Phone Number: 09858035
+
+Date: 2023-06-26
+Serial Number: 3
+Name: afan
+Description: faalfj
+Problem Type: Hardware
+Phone Number: fkjfoajlaj
+
+Date: 2023-06-26
+Serial Number: 1
+Name: simon
+Description: sfcf
+Problem Type: Hardware
+Phone Number: 84564684664
+
+Date: 2023-06-26
+Serial Number: 1
+Name: Erfan
+Description: Type
+Problem Type: Software
+Phone Number: 14325234235
+
+Date: 2023-07-03
+Serial Number: 2
+Name: nahid
+Description: key
+Problem Type: Hardware
+Phone Number: 321431243
+
+Date: 2023-07-03
+Serial Number: 1
+Name: Shakil
+Description: display
+Problem Type: Hardware
+Phone Number: 5211548156
+
+Date: 2023-07-04
+Serial Number: 1
+Name: Kamal
+Description: Internet Connectivity
+Problem Type: Software
+Phone Number: 61616115651
+
+Date: 2023-07-16
+Serial Number: 1
+Name: Shahin
+Description: display
+Problem Type: Hardware
+Phone Number: 5411316541
+
+Date: 2023-07-04
+Serial Number: 1
+Name: jsljls
+Description: ljvljdfldjlj
+Problem Type: Software
+Phone Number: 6461616416
+
+Date: 2023-07-04
+Serial Number: 2
+Name: david
+Description: fskhosj
+Problem Type: Hardware
+Phone Number: 5464648556
+
+Date: 2023-07-04
+Serial Number: 3
+Name: ljldg
+Description: fdsljlj
+Problem Type: Software
+Phone Number: 864656564
+
+Date: 2023-07-04
